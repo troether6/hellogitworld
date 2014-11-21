@@ -1,2 +1,2 @@
 Hello from vadymkovalchuk
-UPDATE2
+UPDATE-MERGED

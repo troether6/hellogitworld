@@ -1,4 +1,4 @@
-Hello from GitHub Student!
+Hello from GitHub Student! (Operated by Brent Beer)
 
 Information:
 - GitHub Student
@@ -6,3 +6,4 @@ Information:
 - Favorite Restaurants: Foreign Cinema
 
 Huge Fan of @matthewmccullough
+
